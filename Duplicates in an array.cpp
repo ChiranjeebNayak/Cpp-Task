@@ -1,10 +1,5 @@
 #include <iostream>
 using namespace std;
-void printRepeating(int arr[], int n)
-{
-
-	
-}
 
 int main()
 {
